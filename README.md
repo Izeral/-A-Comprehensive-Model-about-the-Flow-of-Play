@@ -37,10 +37,15 @@ This is the solution proposed by our team for the 2024 Mathematical Contest in M
 
 ### Catalogue Structure
 ```
-+-- Model.py
-+-- emotion classification.ipynb
-+-- Model with Attention module.py
-+-- CNN.png
-+-- SE.png
++-- interposition.m
++-- Data Preprocessing.ipynb
++-- Data visualization (prob1 and prob2).ipynb
++-- Random Forest and SVM.ipynb
++-- Random Forest and Xgboost.ipynb
++-- Random Forest prediction.png
++-- Double matches.ipynb
++-- performance vs score.png
++-- Permutation Test for Randomized Tests.png
++-- Random Forest prediction.png
 +-- README.md
 ```
