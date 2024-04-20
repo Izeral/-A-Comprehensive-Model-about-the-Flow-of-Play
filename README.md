@@ -34,3 +34,13 @@ This is the solution proposed by our team for the 2024 Mathematical Contest in M
 <p align="center">
     <em> Figure 3: Random Forest prediction </em>
 </p>
+
+### Catalogue Structure
+```
++-- Model.py
++-- emotion classification.ipynb
++-- Model with Attention module.py
++-- CNN.png
++-- SE.png
++-- README.md
+```
