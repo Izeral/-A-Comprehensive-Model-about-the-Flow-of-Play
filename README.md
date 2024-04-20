@@ -14,3 +14,23 @@ This is the solution proposed by our team for the 2024 Mathematical Contest in M
 - We extend our model to the other types of matches like the tennis doubles match.
 - We also test other metrix like the rank of the player if they were useful for our model.
 
+<p align="center">
+      <img width="500" height="200" src="performance vs score.png" alt>
+</p>
+<p align="center">
+    <em>Figure 1: performance vs score</em>
+</p>
+
+<p align="center">
+      <img width="300" height="500" src="Permutation Test for Randomized Tests.png" alt>
+</p>
+<p align="center">
+    <em> Figure 2: Permutation Test for Randomized Tests </em>
+</p>
+
+<p align="center">
+      <img width="300" height="500" src="Random Forest prediction.png" alt>
+</p>
+<p align="center">
+    <em> Figure 3: Random Forest prediction </em>
+</p>
